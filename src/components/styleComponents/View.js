@@ -22,7 +22,7 @@ const Val = styled.span`
 `
 const Resul = styled.span`
     color: white;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 900;
 `
 export { 
